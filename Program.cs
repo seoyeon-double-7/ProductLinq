@@ -10,6 +10,7 @@ namespace ProductLinq
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
