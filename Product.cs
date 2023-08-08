@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProductLinq
 {
-    class Product
+   class Product
     {
         public string Name { get; set; }
         public int Price { get; set; }
